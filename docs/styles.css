@@ -592,6 +592,10 @@ video {
   place-content: center;
 }
 
+.gap-4{
+  gap: 1rem;
+}
+
 .rounded-2xl{
   border-radius: 1rem;
 }
