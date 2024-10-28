@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "daisyui": "^4.12.13",
+    "tailwindcss": "^3.4.14"
+  },
+  "scripts": {
+    "build": "tailwindcss -i ./src/styles.css -o ./public/styles.css",
+    "watch": "tailwindcss -i ./src/styles.css -o ./public/styles.css --watch"
+  }
+}
